@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1112" height="348" viewBox="0 0 1112 348">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.03" x2="0.963" y2="1.177" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0a6ffb"/>
+      <stop offset="1" stop-color="#0c57bf"/>
+    </linearGradient>
+    <filter id="Rectangle_2025" x="0" y="0" width="1112" height="348" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13" result="blur"/>
+      <feFlood flood-color="#0c58c2" flood-opacity="0.49"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_68" data-name="Group 68" transform="translate(-127 -3975)">
+    <g transform="matrix(1, 0, 0, 1, 127, 3975)" filter="url(#Rectangle_2025)">
+      <rect id="Rectangle_2025-2" data-name="Rectangle 2025" width="1034" height="270" rx="19" transform="translate(39 39)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="Experience_change_in_customer_satisfaction" data-name="Experience change in customer satisfaction" transform="translate(683 4144)" fill="#b3d0f8" font-size="28" font-family="Poppins-Regular, Poppins" letter-spacing="-0.019em"><tspan x="-295.204" y="0">Experience change in customer satisfaction</tspan></text>
+    <g id="Group_67" data-name="Group 67">
+      <text id="Start_your_free_trial" data-name="Start your free trial" transform="translate(545 4221)" fill="#fff" font-size="25" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">Start your free trial</tspan></text>
+      <path id="chevron-right-solid" d="M42.9,51.712,31.3,63.319a1.433,1.433,0,0,1-2.027,0l-1.354-1.354a1.433,1.433,0,0,1,0-2.025l9.2-9.243-9.2-9.242a1.433,1.433,0,0,1,0-2.025l1.354-1.354a1.433,1.433,0,0,1,2.027,0L42.9,49.685A1.433,1.433,0,0,1,42.9,51.712Z" transform="translate(778.052 4162.261)" fill="#fff"/>
+    </g>
+    <text id="Get_Reputation_Studio" data-name="Get Reputation Studio" transform="translate(467 4101)" fill="#fff" font-size="40" font-family="Poppins-Bold, Poppins" font-weight="700" letter-spacing="-0.019em"><tspan x="0" y="0">Get Reputation Studio</tspan></text>
+  </g>
+</svg>
